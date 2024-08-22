@@ -16,5 +16,7 @@ public class SirketMain {
 
         System.out.println("Task 5 kodları eklendi");
 
+        System.out.println("merhaba 4");
+
     }
 }

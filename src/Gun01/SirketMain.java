@@ -8,5 +8,6 @@ public class SirketMain {
 
         System.out.println("Task 3 kodları");
 
+        System.out.println("Task 4 kodları yapıldı");
     }
 }
